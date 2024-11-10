@@ -12,8 +12,8 @@ layouts.
 Getting Started
 ---------------
 
-```
-$ composer require symfony/templating
+```bash
+composer require symfony/templating
 ```
 
 ```php
